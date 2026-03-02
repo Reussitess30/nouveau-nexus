@@ -1,0 +1,12 @@
+{
+  "name": "Reussitess©971 AI App",
+  "short_name": "Reuss971",
+  "description": "IA Indépendante de Guadeloupe - Terres De Champions Positivité à l'infini Boudoum",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981",
+  "icons": [
+    { "src": "/icon-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
